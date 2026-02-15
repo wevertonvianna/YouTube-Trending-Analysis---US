@@ -6,7 +6,7 @@ Este projeto transforma dados públicos do Kaggle em um dashboard interativo uti
 
 ---
 ## 🚀 Acesse o Dashboard Online:
-
+https://youtube-trending-analysis---us-wf.streamlit.app/
 
 
 ## 🎯 Objetivo
